@@ -8,6 +8,7 @@ authors:
   - given-names: Natasha
     family-names: Zink
     orcid: 'https://orcid.org/0009-0004-8640-0896'
+doi: "10.5281/zenodo.20585938"
 identifiers:
   - type: url
     value: 'https://github.com/nzink777/Human-AI-Power-Up-Weights-and-Balances-Architecture-for-Persistent-Companions-Symbiosis-Alignment'
