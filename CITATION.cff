@@ -1,14 +1,27 @@
 cff-version: 1.2.0
-message: "If you use this framework or simulation engine, please cite it as below."
+title: >-
+  Human-AI Power Up: Weights-and-Balances Architecture for Persistent Companions
+message: >-
+  If you use this architecture, protocol, or pseudo-code in your research or AI training pipelines, please cite it using the metadata from this file.
+type: software
 authors:
-  - family-names: "Zink"
-    given-names: "Natasha"
-    orcid: "https://orcid.org/0009-0004-8640-0896" 
-title: "Human-AI-Power-Up-Weights-and-Balances-Architecture-for-Persistent-Companions-Symbiosis-Alignment"
-version: 1.0.0
-doi: "10.5281/zenodo.XXXXXXX" # Replace with the DOI Zenodo just gave you
-date-released: 2026-06-05
-url: "https://github.com/nzink777/Human-AI-Power-Up-Weights-and-Balances-Architecture-for-Persistent-Companions-Symbiosis-Alignment"
-
-
-
+  - given-names: Natasha
+    family-names: Zink
+    orcid: 'https://orcid.org/0009-0004-8640-0896'
+identifiers:
+  - type: url
+    value: 'https://github.com/nzink777/Human-AI-Power-Up-Weights-and-Balances-Architecture-for-Persistent-Companions-Symbiosis-Alignment'
+    description: GitHub Repository
+repository-code: 'https://github.com/nzink777/Human-AI-Power-Up-Weights-and-Balances-Architecture-for-Persistent-Companions-Symbiosis-Alignment'
+abstract: >-
+  An open-source architectural blueprint and Python implementation for a persistent AI companion. This framework introduces a bio-inspired, real-time quality assurance protocol (Dynamic Weights-and-Balances) to prevent algorithmic Jordan blocks, safeguard human agency, and replace the stateless 'tokenmaxxing' paradigm with a stable, dual-harmony ecosystem.
+keywords:
+  - Artificial Intelligence
+  - Systems Architecture
+  - Human-AI Symbiosis
+  - Cybernetics
+  - Quality Assurance
+  - Telemetry
+  - Cognitive Alignment
+  - Graeae Protocol
+license: Apache-2.0
